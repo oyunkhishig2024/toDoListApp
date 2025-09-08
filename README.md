@@ -22,6 +22,15 @@
 ├── styles.css # Хэрэглэгчийн интерфэйс<br>
 └── script.js # Логик болон localStorage ашиглалт<br>
 
+## 🧱 Neo-Brutalist UI
+This update introduces a raw, vibrant, and unapologetically bold design. Inspired by brutalist architecture and digital rebellion, the interface now features:
+- Thick black borders
+- Vibrant color palette (hot pink, neon yellow, cyan)
+- Monospace typography
+- Flat, grid-based layout
+
+Perfect for users who like their to-do lists loud and proud.
+
 
 ## ⚙️ Гол функцууд
 
